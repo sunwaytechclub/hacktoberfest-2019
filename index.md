@@ -11,7 +11,7 @@ Welcome to Sunway Tech Club's HacktoberFest repo!
 
 This is where you can find the profile of others, which had their pull requests approved in [Profiles](/profiles/).
 
-Want your profile in here too? Come on over to [our repo](#) and ask one of us on how to make your very first pull request if you don't know how!
+Want your profile in here too? Come on over to [our repo](https://github.com/sunwaytechclub/hacktoberfest-2019) and ask one of us on how to make your very first pull request if you don't know how!
 
 ## Getting your Pull Request (PR) accepted
 
