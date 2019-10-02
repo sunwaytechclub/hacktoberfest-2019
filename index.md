@@ -13,6 +13,14 @@ This is where you can find the profile of others, which had their pull requests 
 
 Want your profile in here too? Come on over to [our repo](https://github.com/sunwaytechclub/hacktoberfest-2019) and ask one of us on how to make your very first pull request if you don't know how!
 
+## Before you get started
+
+1. First thing you would need to do (if you haven't already), is to [sign up](https://github.com/join) for a GitHub account
+2. Next, you should [log in or join](https://hacktoberfest.digitalocean.com/profile) the official HacktoberFest website
+3. Our workshop will be using GitHub Desktop, so please do [download it](https://desktop.github.com/)
+4. Finally, to make your changes for your first Pull Request, you would need a text editor
+  - Any text editor is fine (except for the original Microsoft Notepad), but one we would recommend is [Sublime Text](https://www.sublimetext.com/)
+
 ## Getting your Pull Request (PR) accepted
 
 Other than the commands/buttons needed to get your PR sent to us, many repos out there in the wild will require you to follow certain guidelines to ensure a certain form of standard to their repo.
