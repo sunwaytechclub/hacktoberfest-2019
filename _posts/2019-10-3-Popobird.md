@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pupubird
+title: Popobird
 ---
 
 ![Popobird](https://johor.chinapress.com.my/wp-content/uploads/2017/09/21768392_1470004949741849_2121866198453904402_n.jpg)
