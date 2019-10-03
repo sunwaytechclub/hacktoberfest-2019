@@ -11,7 +11,15 @@ Welcome to Sunway Tech Club's HacktoberFest repo!
 
 This is where you can find the profile of others, which had their pull requests approved in [Profiles](/profiles/).
 
-Want your profile in here too? Come on over to [our repo](https://github.com/sunwaytechclub/hacktoberfest-2019) and ask one of us on how to make your very first pull request if you don't know how!
+Want your profile in here too? Come on over to [our repo](https://github.com/sunwaytechclub/hacktoberfest-2019){:target="_blank"} and ask one of us on how to make your very first pull request if you don't know how!
+
+## Before you get started
+
+1. First thing you would need to do (if you haven't already), is to [sign up](https://github.com/join){:target="_blank"} for a GitHub account
+2. Next, you should [log in or join](https://hacktoberfest.digitalocean.com/profile){:target="_blank"} the official HacktoberFest website
+3. Our workshop will be using GitHub Desktop, so please do [download it](https://desktop.github.com/){:target="_blank"}
+4. Finally, to make your changes for your first Pull Request, you would need a text editor
+  - Any text editor is fine (except for the original Microsoft Notepad), but one we would recommend is [Sublime Text](https://www.sublimetext.com/){:target="_blank"}
 
 ## Getting your Pull Request (PR) accepted
 
